@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ECG projects
+- 🔭 I’m currently working on ECG and other Biomedical projects
 
 - 🐳  I’m currently part of [**IIBMers**](https://github.com/IIBMErs), [**V-Solar**](https://github.com/V-Solar-UC) and [**OSUC**](https://github.com/open-source-uc)
 
