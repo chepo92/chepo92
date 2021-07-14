@@ -15,7 +15,7 @@
 
 - :key: I’m an **Open Source enthusiast** 
 
-- 💬 Ask me about **Electrical Engineering**
+- 💬 Ask me about **Electrical Engineering, 3D printing and design**
 
 - 📫 How to reach me **ansepulveda@uc.cl**
 
