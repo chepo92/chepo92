@@ -43,8 +43,8 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/> </a> 
   <a href="https://openscad.org/" target="_blank"> <img src="https://openscad.org/assets/img/logo.png" alt="openscad" width="40" height="40"/> </a> 
-  <a href="https://www.freecadweb.org/" target="_blank"> <img src="https://camo.githubusercontent.com/42707761ddcdc27dd522db8949216f67238216261afc6220597c1b9361cf1ea9/68747470733a2f2f7777772e667265656361647765622e6f72672f696d616765732f6c6f676f2e706e67" alt="openscad" width="40" height="40"/> </a> 
-  
+  <a href="https://www.freecadweb.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/2306237?s=200&v=4" alt="freecad" width="40" height="40"/> </a> 
+
 </p>
 
 
