@@ -7,11 +7,11 @@
 
 - 🐳  I’m currently part of [**IIBMers**](https://github.com/IIBMErs), [**V-Solar**](https://github.com/V-Solar-UC) and [**OSUC**](https://github.com/open-source-uc)
 
-- 🌱 I’m currently learning **Julia Programming Language and Blender 3D software**
+- 🌱 I’m currently learning **Julia and Rust Programming Language and Blender 3D software**
 
 - 👯 I’m looking to collaborate on **interdisciplinary projects** like **bioprinting**
 
-- 🤝 I’m looking for help with **3D modeling**
+- 🤝 I’m looking for help with **3D modeling**, **Software development** and **Repository maintenance** 
 
 - :key: I’m an **Open Source enthusiast** 
 
